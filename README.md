@@ -1,7 +1,10 @@
 # AAFanClub.github.io
 
 欢迎来到AA同好会。
-[阅读请点此](/src/index.md)
+
+[点这里阅读汉化AA](/src/index.md)
+
+[点这里阅读原创AA](/src/group.md)
 
 ### 这里是哪里
 ```
