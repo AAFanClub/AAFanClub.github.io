@@ -2,9 +2,9 @@
 
 欢迎来到AA同好会。
 
-[点这里阅读汉化AA](/src/index.md)
+[点这里阅读AA](/src/index.md)
 
-[点这里阅读原创AA](/src/group.md)
+[原创AA讨论群](/src/group.md)
 
 ### 这里是哪里
 ```
