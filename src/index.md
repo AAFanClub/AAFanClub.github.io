@@ -5,6 +5,8 @@
 
 [绝望王似乎想用医疗能力拯救患者的样子](/003_YourHeroAcademia/000_YourHeroAcademia.md)
 
+[奇妙千金](/004_Qimiaoqianjin/000_Qimiaoqianjin.md)
+
 
 
 #### 原創作品
