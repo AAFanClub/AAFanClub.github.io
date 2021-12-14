@@ -65,7 +65,9 @@
 
 [时间停止地下城第033话](/img/005_DungeonExplorer/033/033.html)
 
-[时间停止地下城第034话](/img/005_DungeonExplorer/034/034.html)
+[时间停止地下城第034话（上）](/img/005_DungeonExplorer/034/034_01.html)
+
+[时间停止地下城第034话（下）](/img/005_DungeonExplorer/034/034_02.html)
 
 [时间停止地下城第035话](/img/005_DungeonExplorer/035/035.html)
 
@@ -76,6 +78,8 @@
 [时间停止地下城第038话](/img/005_DungeonExplorer/038/038.html)
 
 [时间停止地下城第039话](/img/005_DungeonExplorer/039/039.html)
+
+[时间停止地下城：番外](/img/005_DungeonExplorer/039_extra/039ex.html)
 
 [时间停止地下城第040话](/img/005_DungeonExplorer/040/040.html)
 
@@ -121,7 +125,9 @@
 
 [时间停止地下城第061话](/img/005_DungeonExplorer/061/061.html)
 
-[时间停止地下城第062话](/img/005_DungeonExplorer/062/062.html)
+[时间停止地下城第062话（上）](/img/005_DungeonExplorer/062/062_01.html)
+
+[时间停止地下城第062话（下）](/img/005_DungeonExplorer/062/062_02.html)
 
 [时间停止地下城第063话](/img/005_DungeonExplorer/063/063.html)
 
@@ -151,10 +157,4 @@
 
 [时间停止地下城第076话](/img/005_DungeonExplorer/076/076.html)
 
-[时间停止地下城第077话](/img/005_DungeonExplorer/077/077.html)
 
-[时间停止地下城第078话](/img/005_DungeonExplorer/078/078.html)
-
-[时间停止地下城第079话](/img/005_DungeonExplorer/079/079.html)
-
-[时间停止地下城第080话](/img/005_DungeonExplorer/080/080.html)
