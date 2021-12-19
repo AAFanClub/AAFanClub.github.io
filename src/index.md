@@ -8,7 +8,7 @@
 
 [奇妙千金](/004_Qimiaoqianjin/000_Qimiaoqianjin.md)
 
-[时间停止地下城](/005_DungeonExplorer/000_DungeonExplorer.md)
+[时间停止探索者](/005_DungeonExplorer/000_DungeonExplorer.md)
 
 [肉壶短篇集](/006_nikutsubo/000_nikutsubo.md)
 
