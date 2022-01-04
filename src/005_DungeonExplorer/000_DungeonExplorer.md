@@ -188,4 +188,4 @@
 
 [时间停止探索者084.7话 绁星灯外传 下](/img/005_DungeonExplorer/084/084_07.html)
 
-[时间停止探索者085话](/img/005_DungeonExplorer/084/084_07.html)
+[时间停止探索者085话](/img/005_DungeonExplorer/085/085.html)
