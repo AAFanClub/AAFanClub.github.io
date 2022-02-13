@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿## 时间停止探索者
+﻿﻿﻿﻿﻿﻿## 时间停止探索者
 
 ```
 翻译＆讨论群：863176732
@@ -194,4 +194,8 @@
 
 [时间停止探索者087话](/img/005_DungeonExplorer/087/087.html)
 
-[时间停止探索者087话](/img/005_DungeonExplorer/088/088.html)
+[时间停止探索者088话](/img/005_DungeonExplorer/088/088.html)
+
+[时间停止探索者089话](/img/005_DungeonExplorer/089/089.html)
+
+[时间停止探索者090话](/img/005_DungeonExplorer/090/090.html)
