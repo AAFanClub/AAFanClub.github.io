@@ -1,4 +1,6 @@
-﻿﻿﻿﻿﻿﻿## 时间停止探索者
+﻿  ## 时间停止探索者
+
+![TitleArt](/src/005_DungeonExplorer/TitleArt.jpg)
 
 ```
 翻译＆讨论群：863176732
