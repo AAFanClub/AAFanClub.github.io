@@ -194,7 +194,7 @@
 
 [时间停止探索者086话](/img/005_DungeonExplorer/086/086.html)
 
-[时间停止探索者087话](/img/005_DungeonExplorer/087/087.html)
+[时间停止探索者087话（+支援绘）](/img/005_DungeonExplorer/087/087.html)
 
 [时间停止探索者088话](/img/005_DungeonExplorer/088/088.html)
 
@@ -211,4 +211,6 @@
 [时间停止探索者094话](/img/005_DungeonExplorer/094/094.html)
 
 [时间停止探索者095话](/img/005_DungeonExplorer/095/095.html)
+
+[时间停止探索者096话](/img/005_DungeonExplorer/096/096.html)
 
