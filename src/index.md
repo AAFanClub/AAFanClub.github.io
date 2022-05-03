@@ -12,6 +12,8 @@
 
 [肉壶短篇集](/006_nikutsubo/000_nikutsubo.md)
 
+[想和水银灯过上甜蜜新婚生活！](/007_shuiyindeng/000_shuiyindeng.md)
+
 
 #### 原創作品
 [德齊魯歐似乎想要支援魔法少女](/002_deqiluousihuzhiyuanmofashaonv/000_deqiluousihuzhiyuanmofashaonv.md)
