@@ -236,7 +236,7 @@
 
 [时间停止探索者106话](/img/005_DungeonExplorer/106/106.html)
 
-[时间停止探索者105话](/img/005_DungeonExplorer/107/107.html)
+[时间停止探索者107话](/img/005_DungeonExplorer/107/107.html)
 
-[时间停止探索者106话](/img/005_DungeonExplorer/108/108.html)
+[时间停止探索者108话](/img/005_DungeonExplorer/108/108.html)
 
