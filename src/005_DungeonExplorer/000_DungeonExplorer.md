@@ -243,3 +243,5 @@
 [时间停止探索者109话](/img/005_DungeonExplorer/109/109.html)
 
 [时间停止探索者110话](/img/005_DungeonExplorer/110/110.html)
+
+[时间停止探索者112话](/img/005_DungeonExplorer/112/112.html)
