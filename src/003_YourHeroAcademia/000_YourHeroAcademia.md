@@ -138,3 +138,10 @@
 
 [第64话 BBA自重しろ](/064.md) 
 
+[第65话 特训](/img/003_YourHeroAcademia/065/065.html)
+
+[第66话 肉体关系](/img/003_YourHeroAcademia/066/066.html)
+
+[第67话 安德瓦事务所](/img/003_YourHeroAcademia/067/067.html)
+
+[第68话 炎的记忆](/img/003_YourHeroAcademia/068/068.html)
