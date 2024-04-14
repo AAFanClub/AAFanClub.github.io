@@ -271,3 +271,5 @@
 [时间停止探索者121话（里侧：前篇）](/img/005_DungeonExplorer/121/121_02.html)
 
 [时间停止探索者121话（里侧：后篇）](/img/005_DungeonExplorer/121/121_03.html)
+
+[时间停止探索者121话（表侧）](/img/005_DungeonExplorer/121/121_01.html)
