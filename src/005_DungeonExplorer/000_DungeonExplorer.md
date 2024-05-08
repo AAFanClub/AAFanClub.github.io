@@ -311,3 +311,7 @@
 [时间停止探索者131话](/img/005_DungeonExplorer/131/时间停止探索者 131话.html)
 
 [时间停止探索者132话（前篇）](/img/005_DungeonExplorer/132/时间停止探索者 132话 前篇.html)
+
+[时间停止探索者132话（中篇）](/img/005_DungeonExplorer/132/时间停止探索者 132话 中篇.html)
+
+
