@@ -326,3 +326,6 @@
 
 [时间停止探索者137话](/img/005_DungeonExplorer/137/时间停止探索者 137话.html)
 
+[时间停止探索者138话](/img/005_DungeonExplorer/138/时间停止探索者 138话.html)
+
+[时间停止探索者139话](/img/005_DungeonExplorer/139/时间停止探索者 139话.html)
