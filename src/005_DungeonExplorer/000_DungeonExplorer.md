@@ -345,3 +345,13 @@
 [时间停止探索者145话](/img/005_DungeonExplorer/145/时间停止探索者 145话.html)
 
 [时间停止探索者146话](/img/005_DungeonExplorer/146/时间停止探索者 146话.html)
+
+[时间停止探索者 番外篇 超色修学旅行](/img/005_DungeonExplorer/146/时间停止探索者 番外篇 超色修学旅行.html)
+
+[时间停止探索者147话](/img/005_DungeonExplorer/147/时间停止探索者 147话.html)
+
+[时间停止探索者148话](/img/005_DungeonExplorer/148/时间停止探索者 148话.html)
+
+[时间停止探索者 149话 前篇](/img/005_DungeonExplorer/149/时间停止探索者 149话 前篇.html)
+
+[时间停止探索者 149话 后篇.html](/img/005_DungeonExplorer/149/时间停止探索者 149话 后篇.html)
