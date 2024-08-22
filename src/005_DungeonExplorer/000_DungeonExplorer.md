@@ -394,8 +394,6 @@
 
 [时间停止探索者163话（前篇）](/img/005_DungeonExplorer/163/时间停止探索者亚鲁欧 第163话 前篇.html)
 
-[时间停止探索者163话（前篇）](/img/005_DungeonExplorer/163/时间停止探索者亚鲁欧 第163话 前篇.html)
-
 [时间停止探索者163话（后篇）](/img/005_DungeonExplorer/163/时间停止探索者亚鲁欧 第163话 后篇.html)
 
 [时间停止探索者164话](/img/005_DungeonExplorer/164/时间停止探索者亚鲁欧 第164话.html)
@@ -415,3 +413,7 @@
 [时间停止探索者　关于多库欧的追体验](/img/005_DungeonExplorer/170/时间停止探索者亚鲁欧 关于多库欧的追体验.html)
 
 [时间停止探索者170话](/img/005_DungeonExplorer/170/时间停止探索者亚鲁欧 第170话.html)
+
+[时间停止探索者171话](/img/005_DungeonExplorer/171/时间停止探索者亚鲁欧 第171话.html)
+
+[时间停止探索者172话](/img/005_DungeonExplorer/172/时间停止探索者亚鲁欧 第172话.html)
