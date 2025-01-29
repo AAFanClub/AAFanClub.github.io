@@ -13,3 +13,5 @@
 
 [【R-18】被高等级队伍开除了的我却成功拿到BUG技能回归队伍无双](/img/006_nikutsubo/007/被高等级队伍开除了的我却成功拿到BUG技能回归队伍无双.html)
 
+[【R-18】OBBALORD](/img/006_nikutsubo/008/OBBALORD.html)
+
